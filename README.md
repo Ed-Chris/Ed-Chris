@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Ed-Chris/Ed-Chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies and Programming Languages Used
+- **Python:** Data analysis, data processing, data visualization
+- **Pandas:** Data manipulation and cleaning
+- **Seaborn:** Data visualization
+- **Matplotlib:** Data visualization
+- **Plotly:** Interactive data visualization
+- **Scikit-learn:** Machine learning and clustering
+- **Power BI:** Data visualization and business intelligence
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **Email:** yedukrishnan@example.com
+- **LinkedIn:** [Yedu Krishnan](https://www.linkedin.com/in/yedu-krishnan)
+- **GitHub:** [yourgithubusername](https://github.com/yourgithubusername)
