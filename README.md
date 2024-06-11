@@ -17,4 +17,5 @@
 ## Contact
 - **Email:** yedukrishnan215@gmail.com
 - **LinkedIn:** [Yedu Krishnan](https://www.linkedin.com/in/yedu-krishnan215/)
+- **stack overflow:** [Ed Chris](https://stackoverflow.com/users/25533660/ed-chris)
 
