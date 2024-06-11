@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Ed Chris
+## Hi there 👋 , I'm Ed Chris
 
 ## Technologies and Programming Languages Used
 
