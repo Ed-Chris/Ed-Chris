@@ -17,12 +17,12 @@
 ## Contact
 <p align="center">
   <a href="mailto:yedukrishnan215@gmail.com" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50" hspace="40" style="background-color: white; padding: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
   <a href="https://www.linkedin.com/in/yedu-krishnan215/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="50" height="50" hspace="40" style="background-color: white; padding: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
   <a href="https://stackoverflow.com/users/25533660/ed-chris" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" width="50" height="50" hspace="40" style="background-color: white; padding: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
 </p>
