@@ -15,7 +15,15 @@
 </p>
 
 ## Contact
-- **Email:** yedukrishnan215@gmail.com
-- **LinkedIn:** [Yedu Krishnan](https://www.linkedin.com/in/yedu-krishnan215/)
-- **stack overflow:** [Ed Chris](https://stackoverflow.com/users/25533660/ed-chris)
+<p align="center">
+  <a href="mailto:yedukrishnan215@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50" hspace="20">
+  </a>
+  <a href="https://www.linkedin.com/in/yedu-krishnan215/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="50" height="50" hspace="20">
+  </a>
+  <a href="https://stackoverflow.com/users/25533660/ed-chris">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" alt="Stack Overflow" width="50" height="50" hspace="20">
+  </a>
+</p>
 
