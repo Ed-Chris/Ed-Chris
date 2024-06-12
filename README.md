@@ -17,7 +17,7 @@
 ## Contact
 <p align="center">
   <a href="mailto:yedukrishnan215@gmail.com" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
+    <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Email" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
   <a href="https://www.linkedin.com/in/yedu-krishnan215/" style="text-decoration: none;">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" width="80" height="70" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
