@@ -23,6 +23,6 @@
     <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-variations.png" alt="LinkedIn" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
   <a href="https://stackoverflow.com/users/25533660/ed-chris" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1200px-Stack_Overflow_logo.svg.png?20150916153754" alt="Stack Overflow" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
+    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="Stack Overflow" width="60" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
 </p>
