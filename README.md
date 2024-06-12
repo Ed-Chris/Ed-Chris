@@ -20,7 +20,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
   <a href="https://www.linkedin.com/in/yedu-krishnan215/" style="text-decoration: none;">
-    <img src="[https://content.linkedin.com/content/dam/brand/site/img/logo/logo-variations.png](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg)" alt="LinkedIn" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
+    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="LinkedIn" width="80" height="70" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
   <a href="https://stackoverflow.com/users/25533660/ed-chris" style="text-decoration: none;">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="Stack Overflow" width="60" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
