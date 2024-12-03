@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Ed Chris
+## Hi there 👋 , I'm Yedu Krishnan
 
 ## Technologies and Programming Languages Used
 
