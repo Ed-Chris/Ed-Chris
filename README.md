@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/yedu-krishnan215/" style="text-decoration: none;">
     <img src="https://st4.depositphotos.com/1000417/41563/v/450/depositphotos_415634850-stock-illustration-linkedin-logo-vector-editorial-illustration.jpg" alt="LinkedIn" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
-  <a href="https://stackoverflow.com/users/25533660/ed-chris" style="text-decoration: none;">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=webp&w=256" alt="Stack Overflow" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
+  <a href="https://portfolio-dhkqrxdg274rkhvgku7ew2.streamlit.app/" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/7867/7867852.png" alt="Portfolio" width="50" height="50" hspace="40" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
 </p>
